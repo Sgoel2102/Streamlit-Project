@@ -1,3 +1,3 @@
-pandas
-matplotlib.pyplot
-pydeck
+pandas==2.2.2
+matplotlib.pyplot==3.9.2
+pydeck==0.9.1
